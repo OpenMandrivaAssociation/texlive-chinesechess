@@ -1,6 +1,6 @@
 Name:		texlive-chinesechess
 Version:	63276
-Release:	1
+Release:	2
 Summary:	Typeset Chinese chess with l3draw
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/chinesechess
