@@ -3,7 +3,7 @@ Version:	63276
 Release:	2
 Summary:	Typeset Chinese chess with l3draw
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/chinesechess
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/chinesechess
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/chinesechess.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/chinesechess.doc.r%{version}.tar.xz
